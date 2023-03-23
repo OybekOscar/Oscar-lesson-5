@@ -1,0 +1,13 @@
+.img{
+width: 500px;
+opacity: 0.7;
+transition: all .07s ease-in-out;
+}
+
+
+.img:hover{
+opacity: 1;
+transition: all .50s ease-in-out;
+
+}
+ 
